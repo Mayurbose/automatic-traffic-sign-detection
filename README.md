@@ -1,2 +1,4 @@
-# automatic-traffic-sign-detection
-We build a deep neural network model that can classify traffic signs present in the image into different categories.With this model we are able to read and understand traffic signals which is very important task for all autonomous vehicles
+# Traffic-Sign-Recognition
+This project is traffic Sign detection and recognition  using openCV and Tensorflow
+
+Focused on : (Stop - Yeild - Don't Enter - traffic jam is closed)
